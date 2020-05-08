@@ -1,4 +1,4 @@
-# Kotlin_Unit_Converter
+# Kotlin Unit Converter
 Simple unit coverter created as a project from Hyperskill. Stage5 is the completed and working program. 
 
 Units able to be converted are:
